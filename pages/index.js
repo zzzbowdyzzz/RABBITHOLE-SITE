@@ -1,3 +1,3 @@
 git add .
-git commit -m "✨ Upgraded UI with cyberpunk anime design"
+git commit -m "🐛 Removed invalid git commands from index.js"
 git push
